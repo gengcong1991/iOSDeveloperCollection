@@ -139,7 +139,6 @@
 
 * [微信高性能线上日志系统xlog剖析](http://satanwoo.github.io/2017/07/30/xlog/)
 * [【Dev Club 分享】微信mars 的高性能日志模块 xlog](https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg%3D%3D&mid=2653578220&idx=3&sn=5691bdd82ae0715ab12fd6b849f74aee&chksm=84b3b1ebb3c438fddf86bf74e232fa14222932ebd6d6439bed04ad17d5e64e9270d4ab460f64&scene=4)
-* [微信跨平台组件mars-xlog架构分析及迁移思路](https://blog.desmondyao.com/mars-xlog/)
 * [从Mars的Xlog组件学习日志系统](http://www.jianshu.com/p/f53b4575d3ae)
 * [微信终端跨平台组件Mars介绍](https://futucocoa.github.io/2017-01-20-TencentWechatMarsIntroduction/)
 * [Mars -- Wiki ](https://github.com/Tencent/mars/wiki)
@@ -158,7 +157,6 @@
 ## 面试题
 
 * [招聘一个靠谱的 iOS](https://github.com/ChenYilong/iOSInterviewQuestions)
-* [iOS 中级面试题](http://mrpeak.cn/ios/2016/01/07/push)
 * [2018 iOS 社招面试经验：我是如何拿到阿里、滴滴、美团等六家 offer 的？](https://xiaozhuanlan.com/topic/4985160237)
 
 ## 二进制重排
