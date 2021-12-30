@@ -82,7 +82,7 @@
 * [Handling unhandled exceptions and signals](http://www.cocoawithlove.com/2010/05/handling-unhandled-exceptions-and.html)
 * [iOS 如何获取 Mach-O 的 UUID](http://www.jianshu.com/p/9201d5e34eb6)
 * [正确区分Mach 异常、Unix 信号 和NSException 异常](https://wangdetong.github.io/2016/07/20/20160720Mach%E5%BC%82%E5%B8%B8/)
-
+* [详解没有dSYM文件 如何解析iOS崩溃日志/符号话原理](https://www.cnblogs.com/ciml/p/7422872.html)
 ## 获取方法执行时间
 
 * [深入剖析 iOS 性能优化](http://www.jianshu.com/p/c58001ae3da5)
