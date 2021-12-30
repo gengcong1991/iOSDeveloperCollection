@@ -1,8 +1,6 @@
 # GCBaoDian
 ## runtime
-
-* [Method Swizzling的各种姿势](http://www.tanhao.me/code/160723.html/)
-* [Objective-C Method Swizzling 的最佳实践](http://blog.leichunfeng.com/blog/2015/06/14/objective-c-method-swizzling-best-practice/)
+* [Objective-C Method Swizzling 的最佳实践](http://yulingtianxia.com/blog/2017/04/17/Objective-C-Method-Swizzling/)
 
 ## runLoop
 * [深入理解RunLoop](https://blog.ibireme.com/2015/05/18/runloop/)
