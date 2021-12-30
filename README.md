@@ -55,18 +55,10 @@
 
 ## App网络优化
 
-* [2016年携程App网络服务通道治理和性能优化实践](http://chuansong.me/n/466033251461) - (来源：携程)
-* [携程App的网络性能优化实践](http://chuansong.me/n/2577464) - (来源：携程)
-* [万人低头时代，支付宝APP无线网络性能该如何保障](http://course.tuicool.com/course/details/58058f15a826b5f9e86678fb) - (来源：云栖社区)
-* [移动网络下的性能优化之网络篇](https://blog.wilddog.com/?p=974)
-* [深度优化iOS网络模块](http://mrpeak.cn/blog/ios-network/)- (来源：mrpeak)
-* [美团点评移动网络优化实践](http://tech.meituan.com/SharkSDK.html)- (来源：美团)
 * [全局精确流量调度新思路-HttpDNS服务详解](http://mp.weixin.qq.com/s?__biz=MzA3ODgyNzcwMw==&mid=201837080&idx=1&sn=b2a152b84df1c7dbd294ea66037cf262&scene=2&from=timeline&isappinstalled=0&utm_source=tuicool)
 * [美柚：女性移动APP安全攻防战](https://yq.aliyun.com/articles/61710)
 * [网络诊断](https://github.com/Lede-Inc/LDNetDiagnoService_IOS)
 * [iOS监控-DNS劫持](http://www.jianshu.com/p/08f7146e045f)
-* [iOS网络请求优化之DNS映射](http://www.mrpeak.cn/ios/2016/01/22/dnsmapping)
-* [QQ空间在生产环境使用QUIC协议的经验](https://mp.weixin.qq.com/s/qD9-Xj0CEil0Wtwq5eiPTg)
 * [美图HTTPS优化探索与实践](https://mp.weixin.qq.com/s/mRcz8o0usoqm_cEoGg9btg)
 
 ## App的启动优化
@@ -74,20 +66,12 @@
 * [iOS App从点击到启动](http://www.jianshu.com/p/231b1cebf477)－（来源：简书·吴白）
 * [优化 App 的启动时间](http://yulingtianxia.com/blog/2016/10/30/Optimizing-App-Startup-Time/)－（来源：玉令天下的博客）
 * [iOS 程序 main 函数之前发生了什么](http://blog.sunnyxx.com/2014/08/30/objc-pre-main/)－（来源：sunnyxx）
-* [Facebook iOS App如何优化启动时间](http://www.baijingapp.com/article/3286)
 * [点击 Run 之后发生了什么？](http://www.jianshu.com/p/d5cf01424e92) - (来源：Joy)
-* [把玩链接器](https://github.com/joy0304/Joy-Blog/blob/master/Contents/%EF%BC%88%E5%AD%99%E6%BA%90%EF%BC%89%E6%8A%8A%E7%8E%A9%E9%93%BE%E6%8E%A5%E5%99%A8.pdf)－（来源：sunnyxx）
-* [由App的启动说起](http://oncenote.com/2015/06/01/How-App-Launch/)－（来源： jaminzzhang）
-* [今日头条iOS客户端启动速度优化](https://techblog.toutiao.com/2017/01/17/iosspeed/) - (来源：今日头条)
 * [干货 | 途牛iOS客户端启动速度优化实践](https://mp.weixin.qq.com/s?__biz=MzAwOTE0ODEwMQ==&mid=2650686830&idx=1&sn=d2f060ceb57c235c79d6709f628fcb67&chksm=836ee6c4b4196fd222ecd37cee720e321f25db8ea61b3ce0e3b03e1f7ecd600cf4332ee850bb&mpshare=1&scene=24&srcid=0428m0Yvb48i7iluIzUu35pP&key=80dec19febfab7e013b31928af2e3ceec2bb5146db6a534f611c55c79becc04a11138f465567e55d3b60efdcee93f969e52bbee54b1e5eee491c4013f3130218cc96e44d01dfdfb2c31a6796c0f24951&ascene=0&uin=MTY3NzkzNjI0NA%3D%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.3+build(16D32)&version=12020110&nettype=WIFI&fontScale=100&pass_ticket=op%2FZ0lEAYmtlPRYF1sCK%2BvfhJaCS7%2BHMTZHZqGKIrTvJLI%2Boq2UvUzKikRhKS2%2Br)
 * [阿里数据iOS端启动速度优化的一些经验](http://www.jianshu.com/p/f29b59f4c2b9)
-* [一次立竿见影的启动时间优化](http://www.jianshu.com/p/c1734cbdf39b)
 * [iOS App 启动性能优化](https://zhuanlan.zhihu.com/p/28600469)
 * [如何精确度量 iOS App 的启动时间](https://www.jianshu.com/p/c14987eee107)
-* [iOS端技术 | iOS main()之前都发生了什么](https://mp.weixin.qq.com/s/L7ZiH8j22F4ZJmpZzGxXSA)
-* [WWDC 2017 App Startup Time: Past, Present, and Future](https://techblog.toutiao.com/2017/07/05/session413/)
-* [A method of hook static initializers](http://everettjf.com/2017/02/06/a-method-of-hook-static-initializers/)
-* [iOS15 重大更新之预热机制](https://developer.apple.com/forums/thread/696785)
+* [iOS15 重大更新之预热机制](https://developer.apple.com/documentation/uikit/app_and_environment/responding_to_the_launch_of_your_app/about_the_app_launch_sequence#3894431)
 ## crash收集分析
 
 * [iOS异常捕获](http://www.iosxxx.com/blog/2015-08-29-iosyi-chang-bu-huo.html) － （来源：向晨宇的技术博客）
@@ -223,3 +207,5 @@
 * [runtime疯人院](http://v.youku.com/v_show/id_XODIzMzI3NjAw.html)
 * [RunLoop](http://v.youku.com/v_show/id_XODgxODkzODI0.html)
 * [Swift 语言 iOS 11 开发 斯坦福公开课](https://www.bilibili.com/video/av16339375/)
+## 博客
+* [美团技术团队](https://tech.meituan.com)
