@@ -25,17 +25,10 @@
 
 ## App卡顿检测
 * [关于iOS离屏渲染的深入研究](https://zhuanlan.zhihu.com/p/72653360)
-* [iOS应用UI线程卡顿监控](http://mrpeak.cn/blog/ui-detect/) －（来源：MrPeak杂货铺）
 * [微信读书 iOS 性能优化总结](http://wereadteam.github.io/2016/05/03/WeRead-Performance/) － (来源：WeRead团队博客)
-* [检测iOS的APP性能的一些方法](http://www.starming.com/index.php?v=index&view=91) － (来源：戴铭)
 * [微信iOS卡顿监控系统](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207890859&idx=1&sn=e98dd604cdb854e7a5808d2072c29162&scene=4#wechat_redirect) － (来源：微信移动)
-* [iOS 实时卡顿监控](https://github.com/suifengqjn/PerformanceMonitor) － (来源：fengshi)
 
 ## App性能检测
-
-* [美团外卖移动端性能监测体系实现](http://mp.weixin.qq.com/s/MwgjpHj_5RaG74Z0JjNv5g) - (来源：美团)
-* [移动端 APM 产品研发技能](http://www.infoq.com/cn/presentations/mobile-terminal-apm-product-development-skills?utm_source=presentations_about_apm1&utm_medium=link&utm_campaign=apm1) -（来源：听云）
-* [NeteaseAPM iOS SDK技术实现分享](http://chuansong.me/n/322629451836)- (来源：网易)
 * [告别“伪连接”！如何高效检测iOS中的真实连接状态](http://chuansong.me/n/2577466) - (来源：移动开发前线)
 * [饿了么移动技术负责人胡彪：浅谈App优化](http://blog.tingyun.com/web/article/detail/1122) - (来源：饿了么)
 * [
