@@ -25,7 +25,7 @@
 * [iOS文件内存映射详解(mmap)](http://www.cocoachina.com/ios/20180403/22894.html)
 
 ## App卡顿检测
-
+* [关于iOS离屏渲染的深入研究](https://zhuanlan.zhihu.com/p/72653360)
 * [iOS应用UI线程卡顿监控](http://mrpeak.cn/blog/ui-detect/) －（来源：MrPeak杂货铺）
 * [微信读书 iOS 性能优化总结](http://wereadteam.github.io/2016/05/03/WeRead-Performance/) － (来源：WeRead团队博客)
 * [检测iOS的APP性能的一些方法](http://www.starming.com/index.php?v=index&view=91) － (来源：戴铭)
