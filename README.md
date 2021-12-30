@@ -29,16 +29,11 @@
 * [微信iOS卡顿监控系统](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207890859&idx=1&sn=e98dd604cdb854e7a5808d2072c29162&scene=4#wechat_redirect) － (来源：微信移动)
 
 ## App性能检测
-* [告别“伪连接”！如何高效检测iOS中的真实连接状态](http://chuansong.me/n/2577466) - (来源：移动开发前线)
 * [饿了么移动技术负责人胡彪：浅谈App优化](http://blog.tingyun.com/web/article/detail/1122) - (来源：饿了么)
 * [
-阿里百川码力APP监控来了 重量级选手进入APM市场](http://www.imooc.com/article/14205?block_id=tuijian_wz) - (来源：阿里百川)
 * [微信读书 iOS 质量保证及性能监控](https://wereadteam.github.io/2016/12/12/Monitor/) - (来源：微信读书)
 * [饿了么的移动APM架构实践](http://weibo.com/ttarticle/p/show?id=2309352000024049735869695715) - (来源：饿了么)
 * [手机淘宝：亿级用户APP的快速运维交付实践](https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650400312&idx=1&sn=ce8468991c70ab2e06634f59cd2b6865&chksm=83952e20b4e2a736f701853a483da535312a258a56ca87d65b8ef77e8cf012dab9145659a0aa&scene=0&key=459eeebe1b51063320bc30b7024529048032de1a4d3a8e7cf01dbfc995da8f74fe85688c8be0471b1fdcb82d9b875d163a62f42e9ca04946e2c899194097fb93632ca7790f6fb7395d897442b9272213&ascene=0&uin=MTY3NzkzNjI0NA%3D%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.2+build(16C67)&version=12020010&nettype=WIFI&fontScale=100&pass_ticket=JE5tAT8H%2BfKdFzHQq72mWMIv%2BitHWOqOma3xmX5OeGGPWz2mPXxz3kaQE1WSKJlw)
-* [蘑菇街移动端全链路跟踪保障体系](http://www.infoq.com/cn/presentations/mobile-terminal-full-link-tracking-and-security-system)
-* [阿里-性能可视化之略](https://github.com/joy0304/Joy-Blog/blob/master/Contents/4%EF%BC%8C%E9%99%88%E6%AD%A6-%20%E6%80%A7%E8%83%BD%E5%8F%AF%E8%A7%86%E5%8C%96%E4%B9%8B%E8%B7%AF.pdf)
-* [网易 APM 数据处理系统实践](http://www.infoq.com/cn/presentations/practice-of-netease-apm-data-processing-system?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=presentations_link&utm_content=link_text)
 * [蘑菇街 App 的稳定性与性能实践](http://pstatic.geekbang.org/pdf/5809d9ef9b45b.pdf?e=1491025393&token=eHNJKRTldoRsUX0uCP9M3icEhpbyh3VF9Nrk5UPM:lKVEa3b-uxMSKW75daZyi0p32aQ=)
 * [饿了么移动基础设施的建设](http://www.jianshu.com/p/9c1979ef2a70)
 * [ iOS 性能监控 SDK —— Wedjat（华狄特）开发过程的调研和整理](https://github.com/aozhimin/iOS-Monitor-Platform)
