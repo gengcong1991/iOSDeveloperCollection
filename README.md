@@ -28,7 +28,7 @@
 * [微信iOS卡顿监控系统](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207890859&idx=1&sn=e98dd604cdb854e7a5808d2072c29162&scene=4#wechat_redirect) － (来源：微信移动)
 ## 离屏渲染
 * [关于iOS离屏渲染的深入研究](https://zhuanlan.zhihu.com/p/72653360)
-
+* (iOS离屏渲染)[https://juejin.cn/post/7047042085194563620]
 ## App性能检测
 * [饿了么移动技术负责人胡彪：浅谈App优化](http://blog.tingyun.com/web/article/detail/1122) - (来源：饿了么)
 * [
