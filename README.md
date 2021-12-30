@@ -74,14 +74,11 @@
 * [iOS15 重大更新之预热机制](https://developer.apple.com/documentation/uikit/app_and_environment/responding_to_the_launch_of_your_app/about_the_app_launch_sequence#3894431)
 ## crash收集分析
 
-* [iOS异常捕获](http://www.iosxxx.com/blog/2015-08-29-iosyi-chang-bu-huo.html) － （来源：向晨宇的技术博客）
 * [漫谈iOS Crash收集框架](http://www.cocoachina.com/ios/20150701/12301.html) －（来源：念茜的博客）
 * [聊聊从iOS固件提取系统库符号](http://blog.csdn.net/crash163/article/details/52634606)
 * [iOS Crash分析必备：符号化系统库方法](https://zuikyo.github.io/2016/12/18/iOS%20Crash%E6%97%A5%E5%BF%97%E5%88%86%E6%9E%90%E5%BF%85%E5%A4%87%EF%BC%9A%E7%AC%A6%E5%8F%B7%E5%8C%96%E7%B3%BB%E7%BB%9F%E5%BA%93%E6%96%B9%E6%B3%95/)
 * [iOS崩溃堆栈信息的符号化解析](http://www.jianshu.com/p/953f0961157a)
-* [杨咏臻 | 实战iOS崩溃堆栈的符号化解析](http://www.10tiao.com/html/473/201708/2651474079/1.html)
 * [Handling unhandled exceptions and signals](http://www.cocoawithlove.com/2010/05/handling-unhandled-exceptions-and.html)
-* [iOS dSYM文件结构剖析](http://www.csdn.net/article/2015-08-04/2825369)
 * [iOS 如何获取 Mach-O 的 UUID](http://www.jianshu.com/p/9201d5e34eb6)
 * [正确区分Mach 异常、Unix 信号 和NSException 异常](https://wangdetong.github.io/2016/07/20/20160720Mach%E5%BC%82%E5%B8%B8/)
 
@@ -93,27 +90,20 @@
 * [Dissecting objc_msgSend on ARM64](https://github.com/idevqa/FridayQA/blob/master/2017/2017-06-30.md)
 * [为什么objc_msgSend必须用汇编实现](http://blog.csdn.net/u011342466/article/details/52741003)
 * [HookZzModules](https://github.com/jmpews/HookZzModules/tree/master/hook_objc_msgSend)
-* [AppleTrace - Performance Analysis Tool](http://everettjf.com/2017/09/21/appletrace/)
 
 ## 无痕埋点&AOP
 
-* [SDK无埋点技术在百分点的探索和实践](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651112803&idx=1&sn=061e10ff89c15f893511688f9c7864c2#rd) - (来源：移动开发前线)
-* [有货iOS数据非侵入式自动采集探索实践](https://mp.weixin.qq.com/s/CkCs-pVq7ax6Kp6vRnFdlQ)
-* [美团点评前端无痕埋点实践](http://tech.meituan.com/mt-mobile-analytics-practice.html) - (来源：美团)
 * [iOS无埋点数据SDK实践之路](http://www.jianshu.com/p/69ce01e15042) - (from：netease)
 * [iOS无埋点SDK 之 RN页面的数据收集](http://www.jianshu.com/p/0e1f2d357e39)
-* [Android无埋点数据收集SDK关键技术](http://www.jianshu.com/p/b5ffe845fe2d)
+
 * [网易HubbleData无埋点SDK在iOS端的设计与实现](https://mp.weixin.qq.com/s?__biz=MzIyNjY1Mjg1MA==&mid=2247483740&idx=1&sn=e4797093fa3a61a905aa24ffab64a22d&chksm=e86c6681df1bef97c68d8e340680c9d676de363dc44669619a0e589ea8cc5029b38b5629bc78&mpshare=1&scene=24&srcid=0424aOBeuoj2pbmJid8Y98la&key=8c3e7ded42e4df897f336993d16779d366a40869163c3784e0d0f0c4a74bdd1bb76ffd4a0fc7d1335f7e7d6a8c23d9e1731d4948f0e7f8adca24ac1460f86629ba44dea704d25b084e5375f8dd3e001a&ascene=0&uin=MTY3NzkzNjI0NA%3D%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.3+build(16D32)&version=12020110&nettype=WIFI&fontScale=100&pass_ticket=r5CsnaUuHmsvqzjfj%2FrgCgbIQSgHWM0DKFdckEzQY27bsb8XL7NvdpmMnnXqrmR6)
-* [网易乐得无埋点之路](https://github.com/joy0304/Joy-Blog/blob/master/Contents/%E7%BD%91%E6%98%93%E4%B9%90%E5%BE%97%E6%97%A0%E5%9F%8B%E7%82%B9%E4%B9%8B%E8%B7%AF.pdf)
+
 * [面向切面编程之 Aspects 源码解析及应用](http://wereadteam.github.io/2016/06/30/Aspects/?utm_source=tuicool&utm_medium=referral) -（来源：微信读书）
 * [iOS 如何实现Aspect Oriented Programming (上)](http://www.jianshu.com/p/dc9dca24d5de) - （来源：halfrost ）
 * [iOS 如何实现Aspect Oriented Programming (下)](http://www.jianshu.com/p/2ad7e90b521b)- （来源：halfrost ）
-* [使用 libffi 实现 AOP](http://www.itboth.com/d/zQbQne/aop)
-* [Aspect-Oriented Objective-C Library](https://stackoverflow.com/questions/1508396/aspect-oriented-objective-c-library)
 
 ## cocoaPods
 
-* [细聊 Cocoapods 与 Xcode 工程配置](http://www.jianshu.com/p/ad2e37e741bb) -（来源：bestSwifter）
 * [CocoaPods 都做了什么？](http://www.jianshu.com/p/84936d9344ff) - （来源：Draveness）
 * [最新的CocoaPods的使用教程(一)](http://www.jianshu.com/p/dfe970588f95) -（来源：简书-Dely）
 * [最新的CocoaPods的使用教程(二)](http://www.jianshu.com/p/c6c258a7a3b8)
@@ -121,10 +111,11 @@
 * [Cocoapods系列教程(二)——开源主义接班人](http://ios.jobbole.com/88361/)
 * [Cocoapods系列教程(三)——私有库管理和模块化管理](http://ios.jobbole.com/88363/)
 * [制作Swift和Objective-C Mixed的Pod](http://www.jianshu.com/p/c7623c31d77b) - (来源：南栀倾寒)
-* [给 Pod 添加资源文件](http://blog.xianqu.org/2015/08/pod-resources/?utm_source=tuicool&utm_medium=referral) - (来源：闲趣的网志)
+
 * [优雅的开发Swift和Objective C混编的Framework](http://blog.csdn.net/hello_hwc/article/details/58320433) - (来源：LeoMobileDeveloper)
 * [使用CocoaPods开发并打包静态库](http://www.cnblogs.com/brycezhang/p/4117180.html)
-*  [基于 CocoaPods 进行 iOS 开发](https://blog.dianqk.org/2017/05/01/dev-on-pod/)
+* [基于 CocoaPods 进行 iOS 开发](https://blog.dianqk.org/2017/05/01/dev-on-pod/)
+* [CocoaPods Guides](https://guides.cocoapods.org/syntax/podspec.html)
 
 ## ReactiveCocoa
 
