@@ -24,9 +24,10 @@
 * [iOS文件内存映射详解(mmap)](http://www.cocoachina.com/ios/20180403/22894.html)
 
 ## App卡顿检测
-* [关于iOS离屏渲染的深入研究](https://zhuanlan.zhihu.com/p/72653360)
 * [微信读书 iOS 性能优化总结](http://wereadteam.github.io/2016/05/03/WeRead-Performance/) － (来源：WeRead团队博客)
 * [微信iOS卡顿监控系统](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207890859&idx=1&sn=e98dd604cdb854e7a5808d2072c29162&scene=4#wechat_redirect) － (来源：微信移动)
+## 离屏渲染
+* [关于iOS离屏渲染的深入研究](https://zhuanlan.zhihu.com/p/72653360)
 
 ## App性能检测
 * [饿了么移动技术负责人胡彪：浅谈App优化](http://blog.tingyun.com/web/article/detail/1122) - (来源：饿了么)
