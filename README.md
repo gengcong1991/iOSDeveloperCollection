@@ -178,6 +178,8 @@
 * [Xcode链接器参数](https://blog.csdn.net/eqera/article/details/21636631)
 * [Xcode 设置条件编译参数](https://segmentfault.com/a/1190000005021419)
 * [静态库冲突问题解决全解](https://mp.weixin.qq.com/s/LAFS-6Oycnzu5kOhS9d7pA)
+* [编译加速](https://mp.weixin.qq.com/s/mutsuDVkJBhtGVtNsc89ew)
+
 ## Git
 * [基于GitLab的工作流程设计](https://www.jianshu.com/p/ef8cd7487a6f)
 ## 书籍
