@@ -169,6 +169,7 @@
 
 ## 瘦身
 *  [头条瘦身](https://www.jianshu.com/p/2c914530b54b)
+* [网易云音乐iOS包体积减少87MB](https://mp.weixin.qq.com/s/GTbhvzMA-W0ANlars7mKog)
 
 ## 大图加载
 * [iOS大图加载](https://www.jianshu.com/p/de7b6aede888)
@@ -203,3 +204,4 @@
 * [Swift 语言 iOS 11 开发 斯坦福公开课](https://www.bilibili.com/video/av16339375/)
 ## 博客
 * [美团技术团队](https://tech.meituan.com)
+
